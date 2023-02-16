@@ -9,7 +9,7 @@
 First, clone the repository:
 
 ```bash
-$ git clone git@gitlab.com:dsausa/website/wordpress-theme-v2
+$ git clone git@github.com:dsausa/website/wordpress-theme
 ```
 
 ### Dependencies
