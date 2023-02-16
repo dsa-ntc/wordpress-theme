@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "styles": "npx sass style.scss style.css",
+    "styles:watch": "npx sass --watch style.scss style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
